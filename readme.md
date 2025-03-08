@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/thesharkin/autodeface/main/assets/banner.png" alt="AutoDeface Banner" width="100%">
+
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
 ![PHP](https://img.shields.io/badge/PHP-5.6+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
